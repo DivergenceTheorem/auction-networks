@@ -1,0 +1,4 @@
+Dataset                  K-means (NMI)   Lancichinetti (ONMI)
+Karate Club                     0.0062                 0.6905
+Dolphins                        0.0153                 0.8768
+Political Books                 0.0189                 0.4338
