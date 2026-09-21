@@ -17,3 +17,6 @@
 *.run.xml
 *.nav
 *.snm
+
+# Pycache files
+**/__pycache__/
